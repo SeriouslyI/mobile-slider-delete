@@ -2,7 +2,7 @@
 #### 移动端滑动删除插件，轻量级，原生js
 示例
 ===
-![image](https://github.com/forlove655/mobile-slider-delete/blob/master/imgs/1.png)
+![image](https://github.com/SeriouslyI/mobile-slider-delete/blob/master/imgs/1.png)
 
 说明
 ===
