@@ -3,6 +3,7 @@
 示例
 ===
 ![image](https://github.com/forlove655/mobile-slider-delete/blob/master/imgs/1.png)
+
 说明
 ===
 #### 1.代码很少直接把common.js放到js文件中
